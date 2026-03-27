@@ -46,7 +46,7 @@ OPENAI_API_KEY=   # опционально для перевода/генера�
 - OCR: `{"lang":"rus+eng"}`
 - Translation: `{"text":"Привет мир","to":"en"}`
 - Generation: `{"prompt":"mountains at sunrise","size":"1024x1024"}`
-- Download: `{"url":"https://www.youtube.com/watch?v=..."}"
+- Download: `{"url":"https://www.youtube.com/watch?v=..."}`
 
 ## Маршруты API (основные)
 - `POST /api/auth/register`, `POST /api/auth/login`
